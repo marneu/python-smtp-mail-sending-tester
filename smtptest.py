@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """smtptest.py: command-line smtp test connect and optional mail sender
-Origin:
+Forked from:
 https://github.com/turbodog/python-smtp-mail-sending-tester
 Maintained:
 https://github.com/marneu/python-smtp-mail-sending-tester/blob/master/smtptest.py
@@ -25,7 +25,7 @@ __copyright__ = "(C) 2010 Lindsey Smith."
 __license__ = "GPL2 or 3"
 __credits__ = ["Lindsey Smith"]
 __maintainer__ = "Markus Neubauer"
-__email__ = "neubauer@email-online.org"
+__email__ = "neubauer@.email-online.org"
 __status__ = "Production"
 
 import smtplib
