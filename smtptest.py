@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""smtp-mail-sending-tester.py: command-line smtp test connect and optional mail sender
+"""smtptest.py: command-line smtp test connect and optional mail sender
 Origin:
 https://github.com/turbodog/python-smtp-mail-sending-tester
 Maintained:
