@@ -3,7 +3,7 @@
 Origin:
 https://github.com/turbodog/python-smtp-mail-sending-tester
 Maintained:
-
+https://github.com/marneu/python-smtp-mail-sending-tester/blob/master/smtptest.py
 
 Usage: python smtptest.py [options] fromaddress toaddress serveraddress 
 	This version is a bit more verbose on stderr and returns an error code
